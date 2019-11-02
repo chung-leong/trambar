@@ -17,7 +17,7 @@
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
-    "csv-parse": "^2.5.0",
+    "csv-parse": "^4.4.6",
     "dnscache": "^1.0.1",
     "esm": "^3.0.82",
     "express": "^4.16.3",
