@@ -21,7 +21,7 @@
     "html-webpack-plugin": "^2.28.0",
     "jsmediatags": "^3.8.1",
     "less": "^3.8.1",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "octicons": "^6.0.0",
     "postcss-loader": "^2.1.4",
     "prop-types": "^15.6.2",
