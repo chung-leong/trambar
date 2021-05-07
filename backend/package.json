@@ -26,7 +26,7 @@
     "ignore": "^3.3.10",
     "jsDAV": "^0.3.4",
     "jsdav-promise": "^0.0.3",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "mark-gor": "0.0.6",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.21",
