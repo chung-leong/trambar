@@ -47,7 +47,7 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^2.0.3",
     "less": "^3.8.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mark-gor": "0.0.4",
     "memoizee": "^0.4.5",
     "mocha": "^5.2.0",
